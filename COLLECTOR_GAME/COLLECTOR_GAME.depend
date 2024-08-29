@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1721737099 source:c:\users\jobec\desktop\c++\collector_game\main.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<string>
+	<ctime>
+	"Game.h"
+	"Game.cpp"
+
+1721725278 c:\users\jobec\desktop\c++\collector_game\game.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<string>
+
+1721757373 c:\users\jobec\desktop\c++\collector_game\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<string>
+
