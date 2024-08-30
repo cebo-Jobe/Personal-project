@@ -1,5 +1,7 @@
 Title: Treasure Collector
+
 Description:
+
 Overview: "Treasure Collector" is a simple yet engaging C++ game where the player navigates through a map to collect treasures while avoiding  holes. The goal is to collect all the treasures to achieve victory. However, falling into a hole results in a loss.
 Features:
 
